@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145614510199",
+    "project_id": "flutter-esrgan-app-db467",
+    "storage_bucket": "flutter-esrgan-app-db467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145614510199:android:58d20b06b821f9357e8e72",
+        "android_client_info": {
+          "package_name": "com.example.esrgan_flutter2_ocean_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145614510199-jgciorli30l0lr141040cbf0uhbvs3s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esrgan_flutter2_ocean_app",
+            "certificate_hash": "919c47fc1f3396161015f75bfec8b52a77dd6da7"
+          }
+        },
+        {
+          "client_id": "145614510199-pngbvfen204kjs8mignl01rkonadrlpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4F4kHt_e4t3GVdIFVQzOBasEWSeqSaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145614510199-pngbvfen204kjs8mignl01rkonadrlpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
